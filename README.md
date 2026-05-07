@@ -72,6 +72,7 @@ Alternatively, you can run each Python script sequentially based on the architec
 ## 📁 Repository Structure
 ```
 ├── data/                    # Place raw MAF and clinical data here
+├── test_data/               # Small sample dataset for pipeline testing
 ├── output/                  # Generated plots, reports, and models
 ├── build_sbs96_matrix.py
 ├── cosmic_assignment.py
